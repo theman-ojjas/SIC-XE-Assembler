@@ -10,8 +10,5 @@ do a git-clone of the repo by using following command
 ```bash
  git clone https://github.com/theman-ojjas/CPU_Scheduler.git
 ```
-go to the file explorer->CPU_Scheduler
-click on the exe file : CPU_Scheduler
 
-AND THERE YOU GO!!!!!!!!!
     
